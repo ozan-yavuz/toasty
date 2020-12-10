@@ -8,8 +8,8 @@
     <license>MIT</license>
 
     <keywords>cordova,android,toast,message,alert</keywords>
-    <repo>https://github.com/ozan-yavuz/CustomPlugin.git</repo>
-    <issue>https://github.com/ozan-yavuz/CustomPlugin/issues</issue>
+    <repo>https://github.com/ozan-yavuz/toasty.git</repo>
+    <issue>https://github.com/ozan-yavuz/toasty/issues</issue>
   
     <engines>
         <engine name="cordova" version=">=3.0.0"/>
