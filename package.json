@@ -1,0 +1,31 @@
+{
+  "name": "info.androidabcd.plugin.custom",
+  "version": "1.0.0",
+  "description": "My Description",
+  "cordova": {
+    "id": "info.androidabcd.plugin.custom",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozan-yavuz/toasty.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Ozan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozan-yavuz/toasty/issues"
+  },
+  "homepage": "https://github.com/ozan-yavuz/toasty#readme"
+}
